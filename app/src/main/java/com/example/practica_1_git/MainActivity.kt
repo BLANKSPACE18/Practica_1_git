@@ -32,22 +32,6 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!", // pasar el nombre de parametro a la funcion
-        modifier = modifier
-    )
-    Text(
-        text = "Hello $name!", // pasar el nombre de parametro a la funcion
-        modifier = modifier
-    )
-    Text(
-        text = "Hello $name!", // pasar el nombre de parametro a la funcion
-        modifier = modifier
-    )
-
-
-
-
 
 }
 
